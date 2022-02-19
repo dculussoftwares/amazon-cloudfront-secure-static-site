@@ -142,9 +142,6 @@ Resources:
               IncludeSubdomains: true
               Override: true
               Preload: true
-            ContentSecurityPolicy: 
-              ContentSecurityPolicy: "default-src 'none'; img-src 'self'; script-src 'self'; style-src 'self'; object-src 'none'"
-              Override: true
             ContentTypeOptions: 
               Override: true
             FrameOptions:
