@@ -12,6 +12,7 @@ For more information about each of these components, see the **Solution details*
 
 ## Solution overview
 
+
 The following diagram shows an overview of how the solution works:
 
 ![Architecture](./docs/images/cf-secure-static-site-architecture.png)
