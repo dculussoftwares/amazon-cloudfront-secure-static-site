@@ -168,5 +168,5 @@ To change the Content Security Policy of the site:
 ## Contributing
 Contributions are welcome. Please read the [code of conduct](CODE_OF_CONDUCT.md) and the [contributing guidelines](CONTRIBUTING.md).
 
-## License Summary
+## License Summary 
 This project is licensed under the Apache-2.0 License.
